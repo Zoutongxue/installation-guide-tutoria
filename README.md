@@ -1,2 +1,2 @@
 # installation-guide-tutoria
-各种软件的安装教程
+记录各种软件的安装教程和环境配置教程
